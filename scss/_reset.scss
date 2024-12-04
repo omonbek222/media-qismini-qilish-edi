@@ -1,0 +1,30 @@
+@import "fonts";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    list-style: none;
+    text-decoration: none;
+    transition: all 0.4s ease-out;
+}
+html{
+    overflow-x: hidden;
+    min-width: 320px;
+
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container{
+    max-width: 1260px;
+    padding: 0 10px;
+    margin: auto;
+}
+img{
+    max-width: 100%;
+}
+
+
